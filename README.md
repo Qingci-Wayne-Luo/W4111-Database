@@ -1,1 +1,1 @@
-# W4111-Database
+# Columbia University COMSW4111 Intro to Database
